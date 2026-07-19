@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_meta/
+
+# Data (do not commit the CSV — add it manually or via Kaggle)
+data/
+*.csv
+
+# Environments
+.env
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build helper (not needed in repo)
+_build_notebook.py

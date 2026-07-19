@@ -5,7 +5,8 @@ Exploratory Data Analysis on the [Hotel Booking Demand](https://www.kaggle.com/d
 
 ## Notebook
 
-`ML_Ex01_EDA.ipynb` — Tasks 1–3 (Dataset Loading, Data Dictionary, Train-Test Split)
+`ML_Ex01_EDA.ipynb` — Tasks 1–29 (Full Exploratory Data Analysis Pipeline)
+
 
 ## Running
 
@@ -23,7 +24,7 @@ Exploratory Data Analysis on the [Hotel Booking Demand](https://www.kaggle.com/d
 
 ```
 hotel-booking-demand-eda/
-├── ML_Ex01_EDA.ipynb   # Main notebook (Tasks 1–3)
+├── ML_Ex01_EDA.ipynb   # Main notebook (Tasks 1–29)
 ├── data/               # Place hotel_bookings.csv here for local runs
 ├── README.md
 └── .gitignore
